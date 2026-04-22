@@ -1,0 +1,26 @@
+# Secrets & Credentials
+.env
+.env.local
+*.key
+*.pem
+*.secret
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*~
+
+# Build outputs
+build/
+dist/
+*.elf
+*.hex
